@@ -1,0 +1,219 @@
+1672817263057	geckodriver	INFO	Listening on 127.0.0.1:61970
+1672817263610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileL9IDUH"
+1672817264153	Marionette	INFO	Marionette enabled
+1672817264160	Marionette	INFO	Listening on port 61978
+WebDriver BiDi listening on ws://localhost:61971
+Read port: 61978
+1672817264314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileL9IDUH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61971/devtools/browser/6d648d91-8bea-4991-8e59-e2eaa89885ae
+1672817287207	Marionette	INFO	Stopped listening on port 61978
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672817302273	geckodriver	INFO	Listening on 127.0.0.1:62032
+1672817302833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileY8qs6c"
+1672817303360	Marionette	INFO	Marionette enabled
+1672817303366	Marionette	INFO	Listening on port 62040
+WebDriver BiDi listening on ws://localhost:62033
+Read port: 62040
+1672817303533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileY8qs6c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62033/devtools/browser/c508dafa-75b4-4d27-9486-6e9bfa9f14f0
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1672823723377	geckodriver	INFO	Listening on 127.0.0.1:55902
+1672823723917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55903" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofilevEwWHm"
+1672823724437	Marionette	INFO	Marionette enabled
+1672823724443	Marionette	INFO	Listening on port 55910
+WebDriver BiDi listening on ws://localhost:55903
+Read port: 55910
+1672823724587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofilevEwWHm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55903/devtools/browser/6a29123e-c195-44d1-a219-dbb3f8dbb020
+1672823729404	Marionette	INFO	Stopped listening on port 55910
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672823775135	geckodriver	INFO	Listening on 127.0.0.1:55949
+1672823775693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55950" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofilewK0TFn"
+1672823776229	Marionette	INFO	Marionette enabled
+1672823776235	Marionette	INFO	Listening on port 55957
+WebDriver BiDi listening on ws://localhost:55950
+Read port: 55957
+1672823776400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofilewK0TFn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55950/devtools/browser/5e226701-2efb-4831-8b9a-490caa1b48c8
+1672824868334	Marionette	INFO	Stopped listening on port 55957
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+4372	Marionette	INFO	Listening on port 56044
+WebDriver BiDi listening on ws://localhost:56036
+Read port: 56044
+1672823834535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileXTD59l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56036/devtools/browser/d7e89a68-7e11-4321-97a0-5f8d475cce67
+1672823842491	Marionette	INFO	Stopped listening on port 56044
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672824438497	geckodriver	INFO	Listening on 127.0.0.1:63518
+1672824439052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileKOxTeb"
+1672824439582	Marionette	INFO	Marionette enabled
+1672824439588	Marionette	INFO	Listening on port 63527
+WebDriver BiDi listening on ws://localhost:63519
+Read port: 63527
+1672824439757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileKOxTeb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63519/devtools/browser/f8b43c6b-06ff-4ba1-bb9a-8817bf608b22
+1672824447935	Marionette	INFO	Stopped listening on port 63527
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672824734841	geckodriver	INFO	Listening on 127.0.0.1:64098
+1672824735395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileOz8a0T"
+1672824735916	Marionette	INFO	Marionette enabled
+1672824735921	Marionette	INFO	Listening on port 64107
+WebDriver BiDi listening on ws://localhost:64099
+Read port: 64107
+1672824736080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileOz8a0T\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64099/devtools/browser/745c88c5-4466-4d5c-9c34-2618c4e04280
+1672824744019	Marionette	INFO	Stopped listening on port 64107
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Policies.jsm: 
+  Download failed - ERROR_NETWORK_FAILURE - https://ffextension.nexthink.com/nexthink-latest-an-fx.xpi
+1672824834983	geckodriver	INFO	Listening on 127.0.0.1:64363
+1672824835498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofile5tqx6p"
+1672824835974	Marionette	INFO	Marionette enabled
+1672824835981	Marionette	INFO	Listening on port 64387
+WebDriver BiDi listening on ws://localhost:64364
+Read port: 64387
+1672824836161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofile5tqx6p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64364/devtools/browser/4e50025e-3949-476c-959e-eb5e57676104
+1672824869807	Marionette	INFO	Stopped listening on port 64387
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672824962526	geckodriver	INFO	Listening on 127.0.0.1:65149
+1672824963044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65150" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofilemAJsXc"
+1672824963487	Marionette	INFO	Marionette enabled
+1672824963492	Marionette	INFO	Listening on port 65157
+WebDriver BiDi listening on ws://localhost:65150
+Read port: 65157
+1672824963625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofilemAJsXc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65150/devtools/browser/2630bc07-820a-47e5-a378-284f2e0f83c8
+1672825651627	Marionette	INFO	Stopped listening on port 65157
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ND\\AppData\\Local\\Temp\\rust_mozprofiler9Pd4b"
+1672825123347	Marionette	INFO	Marionette enabled
+1672825123352	Marionette	INFO	Listening on port 65286
+WebDriver BiDi listening on ws://localhost:65278
+Read port: 65286
+1672825123475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofiler9Pd4b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65278/devtools/browser/ed0930e6-4049-4df3-ba96-2769b504b1af
+1672825649815	Marionette	INFO	Stopped listening on port 65286
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+6739	Marionette	INFO	Listening on port 65388
+WebDriver BiDi listening on ws://localhost:65381
+Read port: 65388
+1672825176863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofiledBzmgq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65381/devtools/browser/0f0ded69-00cb-48ab-bd34-fe2812505c0c
+1672825645550	Marionette	INFO	Stopped listening on port 65388
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1018	Marionette	INFO	Listening on port 65492
+WebDriver BiDi listening on ws://localhost:65485
+Read port: 65492
+1672825211136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileMZ7Pnv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65485/devtools/browser/692b5ead-d44c-47e6-ba07-3493452b66a2
+1672825653664	Marionette	INFO	Stopped listening on port 65492
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+2201	Marionette	INFO	Listening on port 49232
+WebDriver BiDi listening on ws://localhost:49222
+Read port: 49232
+1672825252329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileWLpoy9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49222/devtools/browser/ae2d450a-8352-4cc5-b2f3-630daa13df4f
+1672825654967	Marionette	INFO	Stopped listening on port 49232
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672828139218	geckodriver	INFO	Listening on 127.0.0.1:50778
+1672828139766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofilexezNJ9"
+1672828140314	Marionette	INFO	Marionette enabled
+1672828140319	Marionette	INFO	Listening on port 50787
+WebDriver BiDi listening on ws://localhost:50779
+Read port: 50787
+1672828140457	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofilexezNJ9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50779/devtools/browser/a489c7e2-aed4-4c93-af9d-c4bed8c96be1
+1672828146663	Marionette	INFO	Stopped listening on port 50787
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672829566763	geckodriver	INFO	Listening on 127.0.0.1:52351
+1672829567286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52352" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileGMWIXD"
+1672829567800	Marionette	INFO	Marionette enabled
+1672829567805	Marionette	INFO	Listening on port 52359
+WebDriver BiDi listening on ws://localhost:52352
+Read port: 52359
+1672829567967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileGMWIXD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52352/devtools/browser/b039a414-e804-47ee-8d49-03088e15f1f1
+1672829757123	geckodriver	INFO	Listening on 127.0.0.1:53082
+1672829757670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileahFfed"
+1672829758174	Marionette	INFO	Marionette enabled
+1672829758179	Marionette	INFO	Listening on port 53091
+WebDriver BiDi listening on ws://localhost:53083
+Read port: 53091
+1672829758339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileahFfed\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53083/devtools/browser/579e5240-141b-41c5-8e46-b569bcc630d2
+1672829761660	Marionette	INFO	Stopped listening on port 53091
+1672829866269	geckodriver	INFO	Listening on 127.0.0.1:53246
+1672829866828	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileFN3rnS"
+1672829867346	Marionette	INFO	Marionette enabled
+1672829867352	Marionette	INFO	Listening on port 53254
+WebDriver BiDi listening on ws://localhost:53247
+Read port: 53254
+1672829867518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileFN3rnS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53247/devtools/browser/c19d181e-2a5e-48ce-99d7-ec4b29615f57
+1672829871091	Marionette	INFO	Stopped listening on port 53254
+1672829906824	geckodriver	INFO	Listening on 127.0.0.1:53328
+1672829907369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileG3i9ST"
+1672829907901	Marionette	INFO	Marionette enabled
+1672829907906	Marionette	INFO	Listening on port 53337
+WebDriver BiDi listening on ws://localhost:53329
+Read port: 53337
+1672829908073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofileG3i9ST\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53329/devtools/browser/2870ed55-73ec-430c-868e-25532f19ff98
+1672830277121	Marionette	INFO	Stopped listening on port 53337
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53548" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofiledbZ2NC"
+1672830102573	Marionette	INFO	Marionette enabled
+1672830102581	Marionette	INFO	Listening on port 53557
+WebDriver BiDi listening on ws://localhost:53548
+Read port: 53557
+1672830102727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\NAVEBAND\\AppData\\Local\\Temp\\rust_mozprofiledbZ2NC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53548/devtools/browser/1e849f15-3952-4a72-bd7f-af91f4a3822e
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1672830111104	Marionette	INFO	Stopped listening on port 53557
+JavaScript error: , line 0: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
